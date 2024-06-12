@@ -2,7 +2,7 @@
 
 ## Overview
 
-Drive-limit is an ios ppeed tracking App that is designed to enhance driving safety by providing real-time tracking and notifications. The app displays the user's current speed, location, road information, and posted speed limits. It also alerts users verbally when they exceed speed limits and keeps a detailed record of all speed violations. The app's interface is intuitive, featuring three main screens to access vital information and review driving habits.
+Drive-limit is an ios speed tracking App that is designed to enhance driving safety by providing real-time tracking and notifications. The app displays the user's current speed, location, road information, and posted speed limits. It also alerts users verbally when they exceed speed limits and keeps a detailed record of all speed violations. The app's interface is intuitive, featuring three main screens to access vital information and review driving habits.
 
 ## Features
 
